@@ -1,5 +1,7 @@
-# Restaurant-Order-Tracker-
-# Restaurant Order Tracker
+# Restaurant-Order-Tracker
+
+## Demo Video
+Watch a short demo of the app in action: [Demo Video[(https://youtu.be/V1rdqi5Get4)]]
 
 ## Overview
 Restaurant Order Tracker is an Android application that allows customers to track their takeaway orders and staff to manage order status.  
